@@ -35,11 +35,11 @@ A full-stack web application for managing vehicle service operations, including 
 
 ## API Endpoints
 
-GET/POST /api/components/: Manage components.
-GET/POST /api/vehicles/: Manage vehicles.
-GET/POST /api/issues/: Manage vehicle issues.
-GET /api/final_price/<vehicle_id>/: Calculate total price for vehicle repairs.
-GET /api/revenue/<period>/: Fetch revenue data (daily, monthly, yearly).
+1. GET/POST /api/components/: Manage components.
+2. GET/POST /api/vehicles/: Manage vehicles.
+3. GET/POST /api/issues/: Manage vehicle issues.
+4. GET /api/final_price/<vehicle_id>/: Calculate total price for vehicle repairs.
+5. GET /api/revenue/<period>/: Fetch revenue data (daily, monthly, yearly).
 
 ## Running the Application
 
